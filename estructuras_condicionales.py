@@ -40,9 +40,7 @@ else:
 
 
 
-print ("¿cuantos numeros quiere ingresar?")   
-cantidad=() 
-print("usted ingreso",cantidad)
+
 
              
      
